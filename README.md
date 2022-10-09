@@ -1,8 +1,8 @@
 #                                  **POKIPOINT REDEMPTIONS**
 
 #                                      100 points hydrate `(!hydrate)` 
-#                                      `500 points add on fortnite type (!addepic)`
-#                                      1k points unfriend somebody on fortnite (!unfriend)
+#                                      500 points add on fortnite type `(!addepic)`
+#                                      1k points unfriend somebody on fortnite `(!unfriend)`
 #                                      1k points timeout somebody of your choice 30 seconds
 #                                      5k points timeout a mod of your choice 1 minute
 #                                      5.3k points leave game
